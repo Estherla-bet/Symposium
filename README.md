@@ -74,7 +74,10 @@ Policy and practice implications include:
 **Study Limitations**
 
 Cross-sectional design limits causal inference.
+
 Diabetes was self-reported.
+
 Residual confounding may remain.
+
 Longitudinal analyses are recommended for future work.
 
