@@ -1,8 +1,8 @@
-**Who Gets to Age Well? Socioeconomic Differences in Functional Limitation Among Older Adults With and Without Diabetes in Rural South Africa**
+**Who Gets to Age Well? Socioeconomic Differences in Functional Limitation Among Older Adults With and Without Diabetes in Rural South Africa.**
 
-Author: Estherla Twene
-Affiliation: School of Public Health, Washington University in St. Louis
-Data Source: HAALSI (Health and Aging in Africa: A Longitudinal Study of an INDEPTH Community)
+Author: Estherla Twene.
+Affiliation: School of Public Health, Washington University in St. Louis.
+Data Source: HAALSI (Health and Aging in Africa: A Longitudinal Study of an INDEPTH Community).
 
 _The project was developed as a symposium/poster presentation._
 
@@ -28,12 +28,12 @@ essential for informing equitable aging interventions.
 
 Data were obtained from HAALSI (2018–2019 Wave) A population-based longitudinal study conducted in rural South Africa within the
 Agincourt Health and Demographic Surveillance System.
-Sample size for analysis: N = 3,276 older adults
+Sample size for analysis: N = 3,276 older adults.
 
 **Key Variables**
 
-*Outcome*: Functional limitation (ADL/IADL-based measure)
-*Exposure*: Self-reported diabetes status and Socioeconomic status (wealth quintiles)
+*Outcome*: Functional limitation (ADL/IADL-based measure).
+*Exposure*: Self-reported diabetes status and Socioeconomic status (wealth quintiles).
 *Covariates*:
 Age
 Sex
@@ -54,7 +54,7 @@ Fully adjusted models controlled for demographic and lifestyle covariates.
 10.1% of participants had functional limitation.
 17.7% reported diabetes.
 Functional limitation decreased across wealthier neighborhoods while diabetes prevalence increased across wealth quintiles.
-In fully adjusted models, diabetes was significantly associated with functional limitation (aOR = 2.04, 95% CI: 1.50–2.79) 
+In fully adjusted models, diabetes was significantly associated with functional limitation (aOR = 2.04, 95% CI: 1.50–2.79).
 Indicates that individuals with diabetes had more than twice the odds of functional limitation compared to those without diabetes.
 
 **Interpretation**
