@@ -14,7 +14,7 @@ This work contributes to the growing literature on healthy aging in low-resource
 
 **Background and Rationale**
 As life expectancy increases globally, more individuals are living longer with chronic diseases. Healthy aging is not defined by survival alone, 
-but by maintaining functional independence. In rural African settings, Chronic disease burden is increasing, socioeconomic disadvantage remains persistent 
+but by maintaining functional independence. In rural African settings, chronic disease burden is increasing, socioeconomic disadvantage remains persistent 
 and health system resources are limited. Understanding how diabetes and socioeconomic status (SES) jointly influence functional limitation is 
 essential for informing equitable aging interventions.
 
