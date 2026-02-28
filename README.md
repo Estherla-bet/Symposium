@@ -3,6 +3,7 @@
 Author: Estherla Twene
 Affiliation: School of Public Health, Washington University in St. Louis
 Data Source: HAALSI (Health and Aging in Africa: A Longitudinal Study of an INDEPTH Community)
+
 _The project was developed as a symposium/poster presentation._
 
 **Project Overview**
